@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber de consideratione quintae essentiae omnium rerum transmutabilium</title>
+            <author>John of Rupescissa</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="D1458">Granville, Ohio, Denison University MS, 1458, f.
+                  1ra-29ra</witness>
+               <witness xml:id="G1561">Gratorolo edition, Basel, 1561</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="pg01r" n="1r">
+         <graphic url="images/Alchemical-Manuscript-2.tif"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <listBibl>
+            <msDesc xml:id="MS1" xml:lang="en">
+               <msIdentifier>
+                  <settlement>Denison University Library</settlement>
+                  <repository>repository name</repository>
+                  <idno>identifier</idno>
+               </msIdentifier>
+            </msDesc>
+         </listBibl>
+         <div type="manuscript">
+            <pb n="01" facs="#pg01r"/>
+            <p><lb/>Dixit salomon Sapientie capitulum vii Deus dedit mihi horum scienciam veram que
+               sunt ut sciam disposicionem orbis terrarum et virtutes elementorum initium omnium et
+               consummacionem et medietatem ipsorum vicissitudinum permutaciones temporum et eorum
+               mutaciones et divisiones temporum Anni cursum et stellarum disposiciones et naturas
+               animalium | et naturas bestiarum vim ventorum et cogitaciones hominum differencias
+               virgultorum et virtutes radicum et quecunque sunt absconsa et improvisa didici omnium
+               enim artifex docuit me sapientiam hec salomon | Et iterum capitulum xvi libri
+               proverbiorum dixit Universa propter semetipsum operatus est dominus | Ita ergo
+               denirancione? supposita ex infallibilitate scripture concluditur Quod universa
+               philosophi a quam salomoni spiritus sanctus revelavit in verbis premissis | Et ideo
+               ad Dei servitum et ewangelii christi et ewangelicorum virorum et totius corporis
+               Christi mistici devotum famulatum utiliter applicandum | Et sic brevitur titulus
+               libri concluditur probatus Authoris intentio. | Consideravi ergo quod tempus expensum
+               in pruritu mundane philosophie plus quam scriptem annis quinque antem ingressum
+               ordinis in florentissimo studio Tholosano et plus aliis quinque annis ex quo ordinem
+               hunc intravi cum strepitu multo inanium verborum et conflictu inutilium disputationum
+               et laude vana et gloria fatua lectionum tam in studiis particularibus quam cois?
+               generalibus legens | Sicut est possibile tempus predictum redimam redimere perditum
+               restaurarem et elapsum redu <cb/>cam ad manum ut eo extraham ex eo attraham
+               iussu Iesu Christi meritum ad eternam gloriam profuturam Et sic quod mihi nocebat ad
+               culpam, nutu christi mihi perveniat ad eternam vitam | Et vidi possibilem modum in
+               hoc sicut utilitates mee quas vidi in philosophia divino spiritu illustrante etiam
+               tempore iuventutis vanitatis mee quo tempore liginalo? | affuit mihi deus et
+               miserator misericorditer supra modum ut revelem pauperibus Christi et ewangelicis
+               viris et ut qui divicias propter Evangelium christi contempserunt sine humano
+               doctrina sciant faciliter et de levi ac sine notabilibus expensis suas corporales
+               miserias et corporales infirmitates humanas divina benignitate sanare impedimenta
+               sancte orationi et meditacioni nocina? mirabiliter effugare | temptacionibus etiam
+               demonum quas propter quasdem inferunt infirmitates resistere ut et in omnibus et per
+               omnia expedite possint totis viribus Domino ihesu C H R I S T O ex ergo devotissime
+               servire Et cum istud opus pro solis Sanctis faciam a quo opere imperante deo
+               recipient tanta bona | Concluditur evidenter quod ero in eorum beneficiis
+               orationibus et meritis que amplius facient auxilio libri huius iussu christi et
+               imperio eius particeps velint nolint Quia quidquid est causa cause est causa causati
+               | Et sic ex tempore expenso in philosophia cum multa vanitate mihi non cessabunt nova
+               merita pervenire non solum decem annis super mundana philosophia pertransierunt | sed
+               plus quam mille annis ante seculi finem sine dubio defluxurunt | Ergo etiam patet cum
+               modus per quem potest tempus preteritum et malem expensum ac et deperditum restaurari
+               | Illum autem clementissimum Deum qui mihi indigno et vilissimo quam peccatori et
+               caduco revelavit archana multa filosophie mundane humiliter et contrito animo totis
+               viribus rogo ut
+               <lb/>Some <lb/>text <lb/>he <lb break="no"/>re <lb/>. <lb/><choice>
+                  <abbr>Arthemand9</abbr>
+                  <expan>Arthemand<ex>(us)</ex></expan>
+               </choice> senior comes de quibor <lb/>actum est hoc <del>anno domini Mº CCº
+                  sexagesimo primo</del> aput Saluans <lb/><subst>
+                  <del>YYY</del>
+                  <add place="above">XXX</add>
+               </subst>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
