@@ -9,8 +9,15 @@
             <title>Liber de consideratione quintae essentiae omnium rerum transmutabilium</title>
             <author>John of Rupescissa</author>
          </titleStmt>
+         <editionStmt>
+            <edition>Version 1.0 Last updated on 2019-07-17.</edition>
+         </editionStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Born Digital</p>
+            <p>PI: Dr. Fred Porcheddu
+            <lb/>100 West College St.
+            <lb/>Granville, Ohio 43023
+            <lb/>email: porcheddu@denison.edu</p>
          </publicationStmt>
          <sourceDesc>
             <listWit>
@@ -23,7 +30,13 @@
    </teiHeader>
    <facsimile>
       <surface xml:id="pg01r" n="1r">
-         <graphic url="images/Alchemical-Manuscript-2.tif"/>
+         <graphic url="images/Alchemical-Manuscript-01r.png"/>
+      </surface>
+      <surface xml:id="pg01v">
+         <graphic url="images/Alchemical-Manuscript-01v.png"/>
+      </surface>
+      <surface xml:id="pg02r">
+         <graphic url="images/Alchemical-Manuscript-02r.png"/>
       </surface>
    </facsimile>
    <text>
@@ -31,9 +44,9 @@
          <listBibl>
             <msDesc xml:id="MS1" xml:lang="en">
                <msIdentifier>
-                  <settlement>Denison University Library</settlement>
-                  <repository>repository name</repository>
-                  <idno>identifier</idno>
+                  <settlement>Granville, OH, Denison University</settlement>
+                  <repository>William Howard Doane Library</repository>
+                  <idno>Special Collections QD 25 .J64 1459</idno>
                </msIdentifier>
             </msDesc>
          </listBibl>
@@ -44,57 +57,65 @@
                <lb break="no"/>sideracione Quinte essencie
                <lb/>omnium rerum transmuta
                <lb break="no"/>bilium multum bonus</lem><rdg wit="#G1561" type="omission"/></app></head>
-               <p>Dixit salomon Sapientie
+               <p><hi rend="dropcap2 red">D</hi>ixit salomon Sapientie
                <lb/>capitulum <app><lem wit="#D1458">vii</lem><rdg wit="#G1561" type="omission"/></app> Deus dedit mihi 
                <lb/>horum scienciam veram 
                <lb/>que sunt ut sciam 
                <lb/>disposicionem orbis terrarum et
-                  <lb/>virtutes elementorum <app><lem wit="#G1561">initium</lem></app> <app><lem wit="#D1458">omnium et</lem></app> con 
+               <lb/>virtutes elementorum 
+                  <app>
+                     <rdg wit="#G1561">initium</rdg>
+                     <rdg wit="#D1458">omnium et</rdg>
+                  </app> con 
                <lb break="no"/>summacionem et medietatem
-               <lb/><app><lem wit="#D1458">ipsorum</lem></app> vicissitudinum permuta
-               <lb break="no"/>ciones temporum <app><lem wit="#D1458">et eorum mutaciones</lem></app> 
+                  <lb/><app><lem wit="#D1458">ipsorum</lem><rdg wit="#G1561" type="omission"/></app> vicissitudinum permuta
+                  <lb break="no"/>ciones temporum <app><lem wit="#D1458">et eorum mutaciones</lem><rdg wit="#G1561" type="omission"/></app> 
                <lb/>et divisiones temporum Anni cursum
-               <lb/>et stellarum disposiciones <app><lem wit="#D1458">et</lem></app> na
-               <lb break="no"/>turas animalium | et <app><lem wit="#D1458">naturas</lem></app> bestia
+                  <lb/>et stellarum disposiciones <app><lem wit="#D1458">et</lem><rdg wit="#G1561" type="omission"/></app> na
+                  <lb break="no"/>turas animalium | et <app><lem wit="#D1458">naturas</lem><rdg wit="#G1561" type="omission"/></app> bestia
                <lb break="no"/>rum vim ventorum et cogitaciones 
                <lb/>hominum differencias virgultorum 
                <lb/>et virtutes radicum et quecunque
                <lb/>sunt absconsa et improvisa didi 
                <lb break="no"/>ci omnium enim artifex docuit me 
-               <lb/>sapientiam <app><lem wit="#D1458">hec salomon</lem></app> | Et <app><lem wit="#D1458">iterum</lem></app> 
-               <lb/>capitulum <app><lem wit="#D1458">xvi</lem></app> libri proverbiorum dixit 
+                  <lb/>sapientiam <app><lem wit="#D1458">hec salomon</lem><rdg wit="#G1561" type="omission"/></app> | Et <app><lem wit="#D1458">iterum</lem><rdg wit="#G1561" type="omission"/></app> 
+                  <lb/>capitulum <app><lem wit="#D1458">xvi</lem><rdg wit="#G1561" type="omission"/></app> libri proverbiorum dixit 
                <lb/>Universa propter semetipsum operatus
-               <lb/>est dominus | <app><lem wit="#D1458">Ita</lem></app> ergo <app><lem wit="#D1458">denirancione</lem></app>? 
-               <lb/>supposita <app><lem wit="#D1458">ex</lem></app> infallibilitate 
+                  <lb/>est dominus | <app><lem wit="#D1458">Ita</lem><rdg wit="#G1561" type="omission"/></app> ergo <app><lem wit="#D1458">denirancione</lem><rdg wit="#G1561" type="omission"/></app>? 
+                  <lb/>supposita <app><lem wit="#D1458">ex</lem><rdg wit="#G1561" type="omission"/></app> infallibilitate 
                <lb/>scripture concluditur Quod univer
-               <lb break="no"/>sa philosophiam quam salomoni <app><lem wit="#D1458">spiritus</lem></app> 
-               <lb/><app><lem wit="#D1458">sanctus</lem></app> revelavit in verbis premissis
-               <lb/>| <app><lem wit="#D1458">Et ideo</lem></app> ad <app><lem wit="#G1561">Dei</lem></app> servitum et <app><lem wit="#D1458">ewa</lem></app>ngelii 
-               <lb/>christi et <app><lem wit="#D1458">ewa</lem></app>ngelicorum virorum et totius 
-               <lb/>corporis <app><lem wit="#G1561">Christi</lem></app> mistici <app><lem wit="#D1458">devotum</lem></app> famula
+                  <lb break="no"/>sa philosophiam quam salomoni <app><lem wit="#D1458">spiritus</lem><rdg wit="#G1561" type="omission"/></app> 
+                  <lb/><app><lem wit="#D1458">sanctus</lem><rdg wit="#G1561" type="omission"/></app> revelavit in verbis premissis
+                  <lb/>| <app><lem wit="#D1458">Et ideo</lem><rdg wit="#G1561" type="omission"/></app> ad <app><lem wit="#G1561">Dei</lem><rdg wit="#D1458" type="omission"></rdg></app> servitum et ewangelii 
+               <lb/>christi et ewangelicorum virorum et totius 
+                  <lb/>corporis <app><lem wit="#G1561">Christi</lem><rdg wit="#D1458" type="omission"/></app> mistici <app><lem wit="#D1458">devotum</lem><rdg wit="#G1561" type="omission"/></app> famula
                <lb break="no"/>tum utiliter applicandum | Et sic brevitur 
-               <lb/>titulus libri concluditur probatus <app><lem wit="#G1561">Authoris intentio</lem></app>. 
+                  <lb/>titulus libri concluditur probatus <app><lem wit="#G1561">Authoris intentio</lem><rdg wit="#D1458" type="omission"/></app>. 
                <lb/>| Consideravi ergo quod tempus expensum
                <lb/>in pruritu mundane philosophie plus 
-               <lb/>quam scriptem annis quinque antem ingressum
+                  <lb/>quam <app><lem wit="#D1458">scriptem</lem><rdg wit="#D1458" type="omission"/></app> annis <app><lem wit="#G1561">quinque</lem><rdg wit="#D1458" type="omission"/></app> antem ingressum
                <lb/>ordinis in florentissimo studio 
                <lb/>Tholosano et plus aliis quinque 
-               <lb/>annis ex quo ordinem hunc intravi 
+                  <lb/><app><lem wit="#D1458">annis</lem><rdg wit="#G1561" type="omission"/></app> ex quo ordinem hunc intravi 
                <lb/>cum strepitu multo inanium 
                <lb/>verborum et conflictu inutilium dis
                <lb break="no"/>putationum et laude vana 
                <lb/>et gloria fatua lectionum tam in stu
-               <lb break="no"/>diis particularibus quam cois? gene
+                  <lb break="no"/>diis particularibus quam <unclear cert="medium"><app><lem wit="#D1458">cois</lem><rdg wit="#G1561" type="omission"/></app></unclear> gene
                <lb break="no"/>ralibus legens | Sicut est possibile 
-               <lb/>tempus predictum redimam redimere perditum
+                  <lb/>tempus predictum 
+                  <app>
+                     <rdg wit="#G1561">redimam</rdg>
+                     <rdg wit="#D1458">redimere</rdg>
+                  </app> perditum
                <lb/>restaurarem et elapsum redu 
-               <cb break="no"/>cam ad manum ut eo extraham ex eo attraham
+               <cb n="b" break="no"/>cam ad manum et <app><rdg wit="#G1561">eo</rdg><rdg wit="#D1458" type="omission"/></app> <unclear cert="medium">excoantham</unclear>
                <lb/>iussu Iesu Christi meritum ad eternam gloriam 
                <lb/>profuturam Et sic quod mihi nocebat 
-               <lb/>ad culpam, nutu christi mihi perveniat 
+                  <lb/>ad culpam, nutu christi <app><rdg wit="#G1561">mihi</rdg><rdg wit="#D1458" type="omission"/></app> perveniat 
                <lb/>ad eternam vitam | Et vidi 
                <lb/>possibilem modum in hoc sicut uti
-               <lb break="no"/>litates mee quas vidi in philosophia 
+               <lb break="no"/>litates <app><lem wit="#D1458">mee</lem><rdg wit="#G1561" type="omission"/></app> quas vidi in philosophia 
                <lb/>divino spiritu illustrante etiam tempore iuventutis 
                <lb/>vanitatis mee quo tempore ligina
                <lb break="no"/>lo? | affuit mihi deus et miserator misericorditer supra 
@@ -136,7 +157,7 @@
                <lb/>revelavit archana multa fi
                <lb break="no"/>losophie mundane humiliter et 
                <lb/>contrito animo totis viribus rogo ut
-               <pb n="02" facs="#pg01v"/>
+               <lb/><pb n="02" facs="#pg01v"/>
                <lb/>hunc librum non permittat pervenire 
                <lb/>ad manus indignorum et tiranno
                <lb break="no"/>rum et avarorum et illorum qui per pecuniam 
@@ -190,7 +211,7 @@
                <lb/>ad usum hominum aptam que 
                <lb/>possit corpus corruptibile a putre
                <lb break="no"/>faccione conservare | Conservatum
-               <cb/>sine diminucione diminutione conservare confortare | Conservatum Con
+               <cb n="b"/>sine diminucione diminutione conservare confortare | Conservatum Con
                <lb break="no"/>fortatum si foret possibile perpetuare 
                <lb/>in esse | Quia hoc est quod omnes 
                <lb/>naturaliter desiderant nunquam cor
@@ -238,7 +259,7 @@
                <lb/>| Hoc autem in ex textu sacro infalli
                <lb break="no"/>biliter tenemus quod deus unicuique ter
                <lb break="no"/>minum vite constituisse prefixit
-               <pb n="03" facs="#pg02r"/>
+               <lb/><pb n="03" facs="#pg02r"/>
                <lb/>qui non post quocunque humano ingenio 
                <lb/>pertransire vel quocunque subsidio non valeat praetereri 
                <lb/>dicente Iob | Breves dies hominis 
@@ -287,7 +308,7 @@
                <lb/>naturalem debilem inflammare procu
                <lb break="no"/>ret | Et scito hoc sine falsita
                <lb break="no"/>te quod nullum 4or elementorum est tale
-               <cb/>nec aliquid quod includat ex se materialem 
+               <cb n="b"/>nec aliquid quod includat ex se materialem 
                <lb/>composicionem elementorum includit 
                <lb/>| Quia omnia talia sunt corrupcioni 
                <lb/>et transmutacioni subiecta | et omne 
