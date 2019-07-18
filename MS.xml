@@ -21,15 +21,15 @@
          </publicationStmt>
          <sourceDesc>
             <listWit>
-               <witness xml:id="D1458">Granville, Ohio, Denison University MS, 1458, f.
+               <witness xml:id="Den-1458">Granville, Ohio, Denison University MS, 1458, f.
                   1ra-29ra</witness>
-               <witness xml:id="G1561">Gratorolo edition, Basel, 1561</witness>
+               <witness xml:id="Gra-1561">Gratorolo edition, Basel, 1561</witness>
             </listWit>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
-      <surface xml:id="pg01r" n="1r">
+      <surface xml:id="pg01r" n="01r">
          <graphic url="images/Alchemical-Manuscript-01r.png"/>
       </surface>
       <surface xml:id="pg01v">
@@ -53,69 +53,69 @@
          <div type="manuscript">
             <pb n="01" facs="#pg01r"/>
             <div type="textpart" subtype="section" n="1"><head>
-            <app><lem wit="#D1458">Incipit primus liber de con
+            <app><lem wit="#Den-1458">Incipit primus liber de con
                <lb break="no"/>sideracione Quinte essencie
                <lb/>omnium rerum transmuta
-               <lb break="no"/>bilium multum bonus</lem><rdg wit="#G1561" type="omission"/></app></head>
+               <lb break="no"/>bilium multum bonus</lem><rdg wit="#Gra-1561" type="omission"/></app></head>
                <p><hi rend="dropcap2 red">D</hi>ixit salomon Sapientie
-               <lb/>capitulum <app><lem wit="#D1458">vii</lem><rdg wit="#G1561" type="omission"/></app> Deus dedit mihi 
+               <lb/>capitulum <app><lem wit="#Den-1458">vii</lem><rdg wit="#Gra-1561" type="omission"/></app> Deus dedit mihi 
                <lb/>horum scienciam veram 
                <lb/>que sunt ut sciam 
                <lb/>disposicionem orbis terrarum et
                <lb/>virtutes elementorum 
                   <app>
-                     <rdg wit="#G1561">initium</rdg>
-                     <rdg wit="#D1458">omnium et</rdg>
+                     <rdg wit="#Gra-1561">initium</rdg>
+                     <rdg wit="#Den-1458">omnium et</rdg>
                   </app> con 
                <lb break="no"/>summacionem et medietatem
-                  <lb/><app><lem wit="#D1458">ipsorum</lem><rdg wit="#G1561" type="omission"/></app> vicissitudinum permuta
-                  <lb break="no"/>ciones temporum <app><lem wit="#D1458">et eorum mutaciones</lem><rdg wit="#G1561" type="omission"/></app> 
+                  <lb/><app><lem wit="#Den-1458">ipsorum</lem><rdg wit="#Gra-1561" type="omission"/></app> vicissitudinum permuta
+                  <lb break="no"/>ciones temporum <app><lem wit="#Den-1458">et eorum mutaciones</lem><rdg wit="#Gra-1561" type="omission"/></app> 
                <lb/>et divisiones temporum Anni cursum
-                  <lb/>et stellarum disposiciones <app><lem wit="#D1458">et</lem><rdg wit="#G1561" type="omission"/></app> na
-                  <lb break="no"/>turas animalium | et <app><lem wit="#D1458">naturas</lem><rdg wit="#G1561" type="omission"/></app> bestia
+                  <lb/>et stellarum disposiciones <app><lem wit="#Den-1458">et</lem><rdg wit="#Gra-1561" type="omission"/></app> na
+                  <lb break="no"/>turas animalium | et <app><lem wit="#Den-1458">naturas</lem><rdg wit="#Gra-1561" type="omission"/></app> bestia
                <lb break="no"/>rum vim ventorum et cogitaciones 
                <lb/>hominum differencias virgultorum 
                <lb/>et virtutes radicum et quecunque
                <lb/>sunt absconsa et improvisa didi 
                <lb break="no"/>ci omnium enim artifex docuit me 
-                  <lb/>sapientiam <app><lem wit="#D1458">hec salomon</lem><rdg wit="#G1561" type="omission"/></app> | Et <app><lem wit="#D1458">iterum</lem><rdg wit="#G1561" type="omission"/></app> 
-                  <lb/>capitulum <app><lem wit="#D1458">xvi</lem><rdg wit="#G1561" type="omission"/></app> libri proverbiorum dixit 
+                  <lb/>sapientiam <app><lem wit="#Den-1458">hec salomon</lem><rdg wit="#Gra-1561" type="omission"/></app> | Et <app><lem wit="#Den-1458">iterum</lem><rdg wit="#Gra-1561" type="omission"/></app> 
+                  <lb/>capitulum <app><lem wit="#Den-1458">xvi</lem><rdg wit="#Gra-1561" type="omission"/></app> libri proverbiorum dixit 
                <lb/>Universa propter semetipsum operatus
-                  <lb/>est dominus | <app><lem wit="#D1458">Ita</lem><rdg wit="#G1561" type="omission"/></app> ergo <app><lem wit="#D1458">denirancione</lem><rdg wit="#G1561" type="omission"/></app>? 
-                  <lb/>supposita <app><lem wit="#D1458">ex</lem><rdg wit="#G1561" type="omission"/></app> infallibilitate 
+                  <lb/>est dominus | <app><lem wit="#Den-1458">Ita</lem><rdg wit="#Gra-1561" type="omission"/></app> ergo <app><lem wit="#Den-1458">denirancione</lem><rdg wit="#Gra-1561" type="omission"/></app>? 
+                  <lb/>supposita <app><lem wit="#Den-1458">ex</lem><rdg wit="#Gra-1561" type="omission"/></app> infallibilitate 
                <lb/>scripture concluditur Quod univer
-                  <lb break="no"/>sa philosophiam quam salomoni <app><lem wit="#D1458">spiritus</lem><rdg wit="#G1561" type="omission"/></app> 
-                  <lb/><app><lem wit="#D1458">sanctus</lem><rdg wit="#G1561" type="omission"/></app> revelavit in verbis premissis
-                  <lb/>| <app><lem wit="#D1458">Et ideo</lem><rdg wit="#G1561" type="omission"/></app> ad <app><lem wit="#G1561">Dei</lem><rdg wit="#D1458" type="omission"></rdg></app> servitum et ewangelii 
+                  <lb break="no"/>sa philosophiam quam salomoni <app><lem wit="#Den-1458">spiritus</lem><rdg wit="#Gra-1561" type="omission"/></app> 
+                  <lb/><app><lem wit="#Den-1458">sanctus</lem><rdg wit="#Gra-1561" type="omission"/></app> revelavit in verbis premissis
+                  <lb/>| <app><lem wit="#Den-1458">Et ideo</lem><rdg wit="#Gra-1561" type="omission"/></app> ad <app><lem wit="#Gra-1561">Dei</lem><rdg wit="#Den-1458" type="omission"></rdg></app> servitum et ewangelii 
                <lb/>christi et ewangelicorum virorum et totius 
-                  <lb/>corporis <app><lem wit="#G1561">Christi</lem><rdg wit="#D1458" type="omission"/></app> mistici <app><lem wit="#D1458">devotum</lem><rdg wit="#G1561" type="omission"/></app> famula
+                  <lb/>corporis <app><lem wit="#Gra-1561">Christi</lem><rdg wit="#Den-1458" type="omission"/></app> mistici <app><lem wit="#Den-1458">devotum</lem><rdg wit="#Gra-1561" type="omission"/></app> famula
                <lb break="no"/>tum utiliter applicandum | Et sic brevitur 
-                  <lb/>titulus libri concluditur probatus <app><lem wit="#G1561">Authoris intentio</lem><rdg wit="#D1458" type="omission"/></app>. 
+                  <lb/>titulus libri concluditur probatus <app><lem wit="#Gra-1561">Authoris intentio</lem><rdg wit="#Den-1458" type="omission"/></app>. 
                <lb/>| Consideravi ergo quod tempus expensum
                <lb/>in pruritu mundane philosophie plus 
-                  <lb/>quam <app><lem wit="#D1458">scriptem</lem><rdg wit="#D1458" type="omission"/></app> annis <app><lem wit="#G1561">quinque</lem><rdg wit="#D1458" type="omission"/></app> antem ingressum
+                  <lb/>quam <app><lem wit="#Den-1458">scriptem</lem><rdg wit="#Den-1458" type="omission"/></app> annis <app><lem wit="#Gra-1561">quinque</lem><rdg wit="#Den-1458" type="omission"/></app> antem ingressum
                <lb/>ordinis in florentissimo studio 
                <lb/>Tholosano et plus aliis quinque 
-                  <lb/><app><lem wit="#D1458">annis</lem><rdg wit="#G1561" type="omission"/></app> ex quo ordinem hunc intravi 
+                  <lb/><app><lem wit="#Den-1458">annis</lem><rdg wit="#Gra-1561" type="omission"/></app> ex quo ordinem hunc intravi 
                <lb/>cum strepitu multo inanium 
                <lb/>verborum et conflictu inutilium dis
                <lb break="no"/>putationum et laude vana 
                <lb/>et gloria fatua lectionum tam in stu
-                  <lb break="no"/>diis particularibus quam <unclear cert="medium"><app><lem wit="#D1458">cois</lem><rdg wit="#G1561" type="omission"/></app></unclear> gene
+                  <lb break="no"/>diis particularibus quam <unclear cert="medium"><app><lem wit="#Den-1458">cois</lem><rdg wit="#Gra-1561" type="omission"/></app></unclear> gene
                <lb break="no"/>ralibus legens | Sicut est possibile 
                   <lb/>tempus predictum 
                   <app>
-                     <rdg wit="#G1561">redimam</rdg>
-                     <rdg wit="#D1458">redimere</rdg>
+                     <rdg wit="#Gra-1561">redimam</rdg>
+                     <rdg wit="#Den-1458">redimere</rdg>
                   </app> perditum
                <lb/>restaurarem et elapsum redu 
-               <cb n="b" break="no"/>cam ad manum et <app><rdg wit="#G1561">eo</rdg><rdg wit="#D1458" type="omission"/></app> <unclear cert="medium">excoantham</unclear>
-               <lb/>iussu Iesu Christi meritum ad eternam gloriam 
+               <cb n="b" break="no"/>cam ad manum et <app><rdg wit="#Gra-1561">eo</rdg><rdg wit="#Den-1458" type="omission"/></app> <unclear cert="medium">excoantham</unclear>
+               <lb/>iussu Iesu Christi meritum ad eternam gloriam
                <lb/>profuturam Et sic quod mihi nocebat 
-                  <lb/>ad culpam, nutu christi <app><rdg wit="#G1561">mihi</rdg><rdg wit="#D1458" type="omission"/></app> perveniat 
+                  <lb/>ad culpam, nutu christi <app><rdg wit="#Gra-1561">mihi</rdg><rdg wit="#Den-1458" type="omission"/></app> perveniat 
                <lb/>ad eternam vitam | Et vidi 
                <lb/>possibilem modum in hoc sicut uti
-               <lb break="no"/>litates <app><lem wit="#D1458">mee</lem><rdg wit="#G1561" type="omission"/></app> quas vidi in philosophia 
+               <lb break="no"/>litates <app><lem wit="#Den-1458">mee</lem><rdg wit="#Gra-1561" type="omission"/></app> quas vidi in philosophia 
                <lb/>divino spiritu illustrante etiam tempore iuventutis 
                <lb/>vanitatis mee quo tempore ligina
                <lb break="no"/>lo? | affuit mihi deus et miserator misericorditer supra 
