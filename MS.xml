@@ -15,7 +15,7 @@
             <editor>Jordan Cardinale, Denison student scholar</editor>
             <editor>Bridget Koerwitz, Denison student scholar</editor>
             <respStmt>
-               <name>Cheryl A Johnson, Instructional Technologist</name>
+               <name>Cheryl A. Johnson, Instructional Technologist</name>
                <resp>Support for working in TEI</resp>
             </respStmt>
          </editionStmt>
@@ -84,16 +84,23 @@
             <div type="textpart" subtype="section" n="1">
                <head>
                   <app>
-                     <lem wit="#Den">Incipit primus liber de con <lb break="no"/>sideracione Quinte
-                        essencie <lb/>omnium rerum transmuta <lb break="no"/>bilium multum
-                        bonus</lem>
+                     <lem wit="#Den">
+                        <add place="overstrike" rend="red">|</add><add rend="below red"> Incipit
+                           primus liber de con</add>
+                        <lb break="no"/><add rend="below red">sideracione Quinte essencie</add>
+                        <lb/><add rend="below red">omnium rerum transmuta</add>
+                        <lb break="no"/><add rend="below red">bilium multum bonus</add></lem>
                      <rdg wit="#Gra" type="omission"/>
                   </app></head>
-               <p><hi rend="dropcap2 red">D</hi>ixit salomon Sapientie <lb/>capitulum <app>
-                     <lem wit="#Den">vii</lem>
+               <p><hi rend="dropcap4 red">D</hi><add rend="below red">ixit salomon Sapientie</add>
+                  <lb/><add rend="below red">capitulum</add>
+                  <app>
+                     <lem wit="#Den"><add rend="below red">vii</add></lem>
                      <rdg wit="#Gra" type="omission"/>
-                  </app> Deus dedit mihi <lb/>horum scienciam veram <lb/>que sunt ut sciam
-                  <lb/>disposicionem orbis terrarum et <lb/>virtutes elementorum <app>
+                  </app>
+                  <add place="overstrike" rend="red">|</add>Deus dedit mihi <lb/>horum scienciam
+                  veram <lb/>que sunt ut sciam <lb/>disposicionem orbis terrarum et <lb/>virtutes
+                  elementorum <app>
                      <rdg wit="#Gra">initium</rdg>
                      <rdg wit="#Den">omnium et</rdg>
                   </app> con <lb break="no"/>summacionem et medietatem <lb/><app>
@@ -106,23 +113,27 @@
                   <lb/>et divisiones temporum Anni cursum <lb/>et stellarum disposiciones <app>
                      <lem wit="#Den">et</lem>
                      <rdg wit="#Gra" type="omission"/>
-                  </app> na <lb break="no"/>turas animalium | et <app>
+                  </app> na <lb break="no"/>turas animalium <add place="inline" rend="red">|</add>
+                  et <app>
                      <lem wit="#Den">naturas</lem>
                      <rdg wit="#Gra" type="omission"/>
                   </app> bestia <lb break="no"/>rum vim ventorum et cogitaciones <lb/>hominum
                   differencias virgultorum <lb/>et virtutes radicum et quecunque <lb/>sunt absconsa
                   et improvisa didi <lb break="no"/>ci omnium enim artifex docuit me <lb/>sapientiam <app>
-                     <lem wit="#Den">hec salomon</lem>
+                     <lem wit="#Den"><add rend="below red">hec salomon</add></lem>
                      <rdg wit="#Gra" type="omission"/>
-                  </app> | Et <app>
+                  </app>
+                  <add place="inline" rend="red">|</add> Et <app>
                      <lem wit="#Den">iterum</lem>
                      <rdg wit="#Gra" type="omission"/>
                   </app>
-                  <lb/>capitulum <app>
-                     <lem wit="#Den">xvi</lem>
+                  <lb/><add rend="below red">capitulum</add>
+                  <app>
+                     <lem wit="#Den"><add rend="below red">xvi</add></lem>
                      <rdg wit="#Gra" type="omission"/>
-                  </app> libri proverbiorum dixit <lb/>Universa propter semetipsum operatus <lb/>est
-                  dominus | <app>
+                  </app>
+                  <add rend="below red">libri proverbiorum</add> dixit <lb/><add place="overstrike"
+                     rend="red">|</add>Universa propter semetipsum operatus <lb/>est dominus | <app>
                      <lem wit="#Den">Ita</lem>
                      <rdg wit="#Gra" type="omission"/>
                   </app> ergo <app>
@@ -140,7 +151,7 @@
                      <lem wit="#Den">sanctus</lem>
                      <rdg wit="#Gra" type="omission"/>
                   </app> revelavit in verbis premissis <lb/>| <app>
-                     <lem wit="#Den">Et ideo</lem>
+                     <lem wit="#Den"><add place="overstrike" rend="red">|</add>Et ideo</lem>
                      <rdg wit="#Gra" type="omission"/>
                   </app> ad <app>
                      <lem wit="#Gra">Dei</lem>
@@ -152,19 +163,19 @@
                   </app> mistici <app>
                      <lem wit="#Den">devotum</lem>
                      <rdg wit="#Gra" type="omission"/>
-                  </app> famula <lb break="no"/>tum utiliter applicandum | Et sic brevitur
-                  <lb/>titulus libri concluditur probatus <app>
+                  </app> famula <lb break="no"/>tum utiliter applicandum <add place="overstrike"
+                     rend="red">|</add>Et sic brevitur <lb/>titulus libri concluditur probatus <app>
                      <lem wit="#Gra">Authoris intentio</lem>
                      <rdg wit="#Den" type="omission"/>
-                  </app>. <lb/>| Consideravi ergo quod tempus expensum <lb/>in pruritu mundane
-                  philosophie plus <lb/>quam <app>
+                  </app>. <lb/><add place="overstrike" rend="red">|</add>Consideravi ergo quod
+                  tempus expensum <lb/>in pruritu mundane philosophie plus <lb/>quam <app>
                      <lem wit="#Den">scriptem</lem>
                      <rdg wit="#Den" type="omission"/>
                   </app> annis <app>
                      <lem wit="#Gra">quinque</lem>
                      <rdg wit="#Den" type="omission"/>
-                  </app> antem ingressum <lb/>ordinis in florentissimo studio <lb/>Tholosano et plus
-                  aliis quinque <lb/><app>
+                  </app> antem ingressum <lb/>ordinis in florentissimo studio <lb/><add
+                     rend="below red">Tholosano</add> et plus aliis quinque <lb/><app>
                      <lem wit="#Den">annis</lem>
                      <rdg wit="#Gra" type="omission"/>
                   </app> ex quo ordinem hunc intravi <lb/>cum strepitu multo inanium <lb/>verborum
@@ -187,55 +198,148 @@
                   mihi nocebat <lb/>ad culpam, nutu christi <app>
                      <rdg wit="#Gra">mihi</rdg>
                      <rdg wit="#Den" type="omission"/>
-                  </app> perveniat <lb/>ad eternam vitam | Et vidi <lb/>possibilem modum in hoc
-                  sicut uti <lb break="no"/>litates <app>
+                  </app> perveniat <lb/>ad eternam vitam <add place="overstrike" rend="red"
+                  >|</add>Et vidi <lb/>possibilem modum in hoc sicut uti <lb break="no"/>litates <app>
                      <lem wit="#Den">mee</lem>
                      <rdg wit="#Gra" type="omission"/>
-                  </app> quas vidi in philosophia <lb/>divino spiritu illustrante etiam tempore
-                  iuventutis <lb/>vanitatis mee quo tempore ligina <lb break="no"/>lo? | affuit mihi
-                  deus et miserator misericorditer supra <lb/>modum ut revelem pauperibus Christi et
-                  <lb/>ewangelicis viris et ut qui divicias <lb/>propter Evangelium christi
-                  contempserunt sine <lb/>humano doctrina sciant faciliter et <lb/>de levi ac sine
-                  notabilibus ex <lb break="no"/>pensis suas corporales mise <lb break="no"/>rias et
-                  corporales infirmitates <lb/>humanas divina benignitate sa <lb break="no"/>nare
-                  impedimenta sancte orationi <lb/>et meditacioni nocina? mirabi <lb break="no"
-                  />liter effugare | temptacionibus <lb/>etiam demonum quas propter quasdem
-                  <lb/>inferunt infirmitates resistere ut <lb/>et in omnibus et per omnia expedite
-                  pos <lb break="no"/>sint totis viribus Domino ihesu C H R I S T O ex ergo
+                  </app> quas vidi in philosophia <lb/>divino spiritu illustrante etiam tempore <app>
+                     <rdg wit="#Gra">iuventutis</rdg>
+                  </app>
+                  <lb/>
+                  <app>
+                     <lem wit="#Den">vanitas</lem>
+                  </app> mee quo tempore <app>
+                     <lem wit="#Den">ligina</lem>
+                  </app>
+                  <lb break="no"/>
+                  <app>
+                     <lem wit="#Den">lo?</lem>
+                  </app> | affuit mihi deus <app>
+                     <lem wit="#Den">misericorditer</lem>
+                     <rdg wit="#Gra">et miserator</rdg>
+                  </app> supra <lb/>modum ut revelem pauperibus <app>
+                     <rdg wit="#Gra">Christi et</rdg>
+                  </app>
+                  <lb/>ewangelicis viris <app>
+                     <lem wit="#Den">ut</lem>
+                     <rdg wit="#Gra">ut</rdg>
+                  </app> qui divicias <lb/>propter <app>
+                     <lem wit="#Den">christi</lem>
+                     <rdg wit="#Gra">Evangelium</rdg>
+                  </app> contempserunt sine <lb/>humano doctrina sciant faciliter et <lb/>de levi ac
+                  sine notabilibus ex <lb break="no"/>pensis suas corporales mise <lb break="no"
+                  />rias et <app>
+                     <lem wit="#Den">corporales</lem>
+                  </app> infirmitates <lb/>humanas divina benignitate sa <lb break="no"/>nare
+                  impedimenta sancte orationi <lb/>et meditacioni <unclear cert="medium">
+                     <app>
+                        <lem wit="#Den">nocina?</lem>
+                     </app></unclear> mirabi <lb break="no"/>liter effugare <add place="inline"
+                     rend="red">|</add> temptacionibus <lb/>etiam demonum quas propter quasdem <lb/><app>
+                     <lem wit="#Den">inferunt infirmitates</lem>
+                  </app> resistere <lb/><app>
+                     <lem wit="#Den">et</lem>
+                     <rdg wit="#Gra">ut</rdg>
+                  </app> in omnibus et per omnia expedite pos <lb break="no"/>sint totis viribus
+                  domino ihesu <app>
+                     <lem wit="#Den">ex ergo</lem>
+                     <rdg wit="#Gra">C H R I S T O</rdg>
+                     <rdg wit="#Den" type="omission"/>
+                  </app>
                   <lb/>devotissime servire Et cum istud <lb/>opus pro solis Sanctis faciam <lb/>a
-                  quo opere imperante deo recipient <lb/>tanta bona | Concluditur evidenter
-                  <lb/>quod ero in eorum beneficiis orationibus <lb/>et meritis que amplius facient
-                  <lb/>auxilio libri huius iussu christi et imperio <lb/>eius particeps velint
-                  nolint Quia <lb/>quidquid est causa cause est causa causati <lb/>| Et sic ex
-                  tempore expenso in philosophia cum <lb/>multa vanitate mihi non cessabunt
-                  <lb/>nova merita pervenire non solum <lb/>decem annis super mundana philosophia
-                  <lb/>pertransierunt | sed plus quam mille annis <lb/>ante seculi finem sine dubio
-                  defluxurunt | Ergo <lb/>etiam patet cum modus per quem potest tempus
-                  <lb/>preteritum et malem expensum ac et <lb/>deperditum restaurari | Illum autem
-                  <lb/>clementissimum Deum qui mihi indigno et <lb/>vilissimo quam peccatori et
-                  caduco <lb/>revelavit archana multa fi <lb break="no"/>losophie mundane humiliter
-                  et <lb/>contrito animo totis viribus rogo ut <lb/><pb n="02" facs="#pg01v"/>
-                  <lb/>hunc librum non permittat pervenire <lb/>ad manus indignorum et tiranno <lb
-                     break="no"/>rum et avarorum et illorum qui per pecuniam <lb/>vellent habere uti
-                  | nec dare remedia sed potuis illorum qui volent <lb/>nisi intui tu soluis dei
-                  nomine ac <lb/>pietatis sanctis dignis ac bonis <lb/>et iustis personis perfectis
-                  et ewan <lb break="no"/>gelicis operibus vehemencius faciendis inhe <lb break="no"
-                  />rendum | Et Deus ac dominus noster ihesu Christus <lb/>contrarium facere
-                  volentibus factum im <lb break="no"/>pediat ne effectus sequatur | et sicud
-                  <lb/>avarus optat | O quantum malum <lb/>foret si hic liber perveniret ad
-                  <lb/>manus hominum mundanorum et ad <lb/>noticiam tiranorum et ad ser <lb
-                     break="non"/>vicium reproborum | Quia sicut <lb/>sancti per hunc librum
-                  poterunt continuare per lon <lb break="no"/>gare et enim vite opera et christo
-                  divicius <lb/>et vehemencius serviendo | Ita <lb/>et reprobi possent perverso usu
-                  <lb/>diutius in malo perseverare <lb/>| Ego autem, quantum in me est <lb/>propter
-                  solos sanctos librum hunc con <lb break="no"/>stituo, et ipsum custodire ihesu
-                  <lb/>christe commendo sine aliis verbis ad <lb/>secretorum revelationem accedendo
-                  <lb/>iuxta ordinem titulorum inferius <lb/>scribendorum | </p>
+                  quo opere imperante deo recipient <lb/>tanta bona <add place="overstrike"
+                     rend="red">|</add> Concluditur evidenter <lb/>quod ero in eorum beneficiis
+                  orationibus <lb/>et meritis que amplius facient <lb/>auxilio libri huius iussu
+                  christi et imperio <lb/>eius particeps velint nolint <add rend="below red"
+                     >Quia</add>
+                  <lb/><add rend="below red">quidquid est causa cause est causa causati</add>
+                  <lb/><add place="overstrike" rend="red">|</add>Et sic ex tempore expenso in
+                  philosophia cum <lb/>multa vanitate mihi non cessabunt <lb/>nova merita pervenire
+                  non solum <lb/>decem annis <app>
+                     <lem wit="#Den">super mundana</lem>
+                  </app> philosophia <lb/>pertransi<app>
+                     <lem wit="#Den">erun</lem>
+                  </app>t <add place="inline" rend="red">|</add> sed plus quam mille annis <lb/>ante
+                  seculi finem sine <app>
+                     <rdg wit="#Gra">dubio</rdg>
+                     <rdg wit="#Den" type="omission"/>
+                  </app> defluxurunt <add place="overstrike" rend="red">|</add>Ergo <lb/><app>
+                     <lem wit="#Den">et</lem>
+                  </app>iam patet <app>
+                     <lem wit="#Den">cum</lem>
+                  </app> modus per quem potest tempus <lb/>preteritum <app>
+                     <lem wit="#Den">et</lem>
+                  </app> malem expensum <app>
+                     <lem wit="#Den">et</lem>
+                     <rdg wit="#Gra">ac</rdg>
+                  </app>
+                  <lb/><app>
+                     <lem wit="#Den">de</lem>
+                  </app>perditum restaurari <add place="overstrike" rend="red">|</add>Illum autem
+                  <lb/>clementissimum deum qui mihi indigno <app>
+                     <rdg wit="#Gra">et</rdg>
+                     <rdg wit="#Den" type="omission"/>
+                  </app>
+                  <lb/>vilissimo <app>
+                     <lem wit="#Den">quam</lem>
+                  </app> peccatori <app>
+                     <rdg wit="#Gra">et</rdg>
+                     <rdg wit="#Den" type="omission"/>
+                  </app> caduco <lb/>revelavit arc<app>
+                     <lem wit="#Den">h</lem>
+                  </app>ana multa fi <lb break="no"/>losophie mundane humiliter et <lb/>contrito
+                  animo totis viribus rogo ut <lb/><pb n="02" facs="#pg01v"/>
+                  <lb/>hunc librum non permittat <app>
+                     <rdg wit="#Gra">per</rdg>
+                     <rdg wit="#Den" type="omission"/>
+                  </app>venire <lb/>ad manus indignorum <app>
+                     <lem wit="#Den">et tiranno</lem>
+                  </app>
+                  <lb break="no"/><app>
+                     <lem wit="#Den">rum</lem>
+                  </app> et avarorum <app>
+                     <rdg wit="#Gra">et illorum</rdg>
+                     <rdg wit="#Den" type="omission"/>
+                  </app> qui <app>
+                     <lem wit="#Den">per</lem>
+                  </app> pecuniam <lb/>vellent <app>
+                     <lem wit="#Den">uti</lem>
+                     <rdg wit="#Gra">habere</rdg>
+                  </app>
+                  <add place="inline" rend="red">|</add> nec dare remedia <app>
+                     <rdg wit="#Gra">sed potuis illorum qui volent</rdg>
+                     <rdg wit="#Den" type="omission"/>
+                  </app>
+                  <lb/>nisi intui tu soluis dei <app>
+                     <lem wit="#Den">nomine</lem>
+                     <rdg wit="#Gra"> ac</rdg>
+                  </app>
+                  <lb/>pietatis sanctis dignis <app>
+                     <lem wit="#Den">ac</lem>
+                  </app> bonis <lb/>et iustis <app>
+                     <lem wit="#Den">personis perfectis</lem>
+                  </app> et ewan <lb break="no"/>gelicis operibus vehemencius faciendis inhe <lb
+                     break="no"/>rendum <add place="overstrike" rend="red">|</add>Et Deus ac dominus
+                  noster ihesu Christus <lb/>contrarium facere volentibus factum im <lb break="no"
+                  />pediat ne effectus sequatur | et sicud <lb/>avarus optat <add place="inline"
+                     rend="red">|</add>
+                  <add place="overstrike" rend="red">|</add>O quantum malum <lb/>foret si hic liber
+                  perveniret ad <lb/>manus hominum mundanorum et ad <lb/>noticiam tiranorum et ad
+                  ser <lb break="non"/>vicium reproborum <add place="overstrike" rend="red"
+                  >|</add>Quia sicut <lb/>sancti per hunc librum poterunt continuare per lon <lb
+                     break="no"/>gare et enim vite opera et christo divicius <lb/>et vehemencius
+                  serviendo <add place="overstrike" rend="red">|</add>Ita <lb/>et reprobi possent
+                  perverso usu <lb/>diutius in malo perseverare <lb/><add place="overstrike"
+                     rend="red">|</add>Ego autem, quantum in me est <lb/>propter solos sanctos
+                  librum hunc con <lb break="no"/>stituo, et ipsum custodire ihesu <lb/>christe
+                  commendo sine aliis verbis ad <lb/>secretorum revelationem acce<add place="above"
+                     >de</add>ndo <lb/>iuxta ordinem titulorum inferius <lb/>scribendorum | </p>
             </div>
 
             <div type="textpart" subtype="section" n="2">
                <head>Canon primus</head>
-               <p>S|Ecretum primum est quod per vir <lb break="no"/>tutem quam contulit deus nature
+               <p>S<add place="overstrike" rend="red">|</add><add rend="below red">Ecretum
+                     primum</add> est quod per vir <lb break="no"/>tutem quam contulit deus nature
                   <lb/>condite et magisterio humano subiecte <lb/>potest homo incommoda senectutis
                   <lb/>sentit curis quibus ac nimis in <lb/>antiquis viris ewangelicis impediuntur
                   <lb/>opera ewangelice vite curare et <lb/>amissam iuventutem iterum restau <lb
@@ -244,96 +348,140 @@
                   sequentem canonem apte demonstrabimus et qualiter hoc folii <lb/>potest </p>
             </div>
             <div type="textpart" subtype="section" n="3">
-               <head>Canon secundus | Canon primus quod <lb/>et quid sit radix vite</head>
+               <head>Canon secundus <add place="overstrike" rend="red">|</add><add rend="below red"
+                     >Canon primus quod</add>
+                  <lb/><add rend="below red">et quid sit radix vite</add></head>
                <p>Hoc est in quo laboraverunt <lb/>omnes querere rem creatam <lb/>ad usum hominum
                   aptam que <lb/>possit corpus corruptibile a putre <lb break="no"/>faccione
-                  conservare | Conservatum <cb n="b"/>sine diminucione diminutione conservare
-                  confortare | Conservatum Con <lb break="no"/>fortatum si foret possibile
-                  perpetuare <lb/>in esse | Quia hoc est quod omnes <lb/>naturaliter desiderant
-                  nunquam cor <lb break="no"/>rumpi nec et mori | Dicente primo etr catholico
-                  <lb/>philosophero magno divo paulo in epistola <lb/>secunda iia ad corinthianes
-                  capitulo vto | Nam et qui <lb/>sumus in hoc tabernaculo corporis <lb/>ingemiscimus
-                  generati ex infra <lb/>mitatibus eo quod nolumus expoli <lb break="no"/>ari isto
-                  corpore sed corare? superves <lb break="no"/>tiri ipso corpore ne moriamur | et
-                  Ideo subdit <lb/>ut absorbeant quod mortale est <lb/>a vita hec Paulus | Quoniam
-                  paucissimi <lb/>philosophi pervenerunt ad ultimam <lb/>noticiam rei talis |
-                  Evidens est et <lb/>per hoc quod medici nostri temporis qui <lb/>ardent desiderio
-                  pecunie et ho <lb break="no"/>noris pro pecunia nil tale magna <lb break="no"/>to
-                  alicui nostri temporis potuerunt <lb/>conferre nec possunt | nec vult <lb/>deus ut
-                  avari sciant | Sed quia ut <lb/>dicit veridicus noster philosophis paulus in
-                  <lb/>epistola ad hebreos capitula ixo in fine | Statutem <lb/>Constitutum est
-                  hominibus semel morit <lb/>| Ergo fantasticum est labora <lb break="no"/>re ut in
-                  hac mortali vita <lb/>queratur talis res que possit <lb/>corpus nostrum ex mortali
-                  reddere <lb/>immortale | ut in Maxime quia genesii iii capitulo <lb/>deus dixit |
-                  Nunc ergo videte ne for <lb break="no"/>te adam mittat manum suam et <lb/>sumat
-                  etiam de ligno vite et comedat <lb/>et vivat in eternum | expulit Emisit eum deus
-                  <lb/>de paradiso voluptatis ut operaretur terram <lb/>de qua sumptus est |
-                  Eiecitque eum adam <lb/>et collocavit ante paradisum vo <lb break="no"/>luptatis |
-                  Cherubin cum et flammeum <lb/>gladium atque versatile ad custo <lb break="no"
-                  />diendum viam ligni vite <lb/>| Fantasticum ergo esset dicere ut <lb/>deus daret
-                  ade extra paradisum aliquam <lb/>rem per quam posset vivere in eternum <lb/>| Ex
-                  quo ipsum eiecit eum ne capiens <lb/>de ligni fructu vite viveret in eternum
-                  <lb/>| Hoc autem in ex textu sacro infalli <lb break="no"/>biliter tenemus quod
-                  deus unicuique ter <lb break="no"/>minum vite constituisse prefixit <lb/><pb
-                     n="03" facs="#pg02r"/>
+                  conservare <add place="overstrike" rend="red">|</add>Conservatum <cb n="b"/>sine
+                  diminucione diminutione conservare confortare <add place="overstrike" rend="red"
+                     >|</add>Conservatum Con <lb break="no"/>fortatum si foret possibile perpetuare
+                  <lb/>in esse <add place="overstrike" rend="red">|</add>Quia hoc est quod omnes
+                  <lb/>naturaliter desiderant nunquam cor <lb break="no"/>rumpi nec et mori <add
+                     place="overstrike" rend="red">|</add>Dicente primo <del rend="strikethrough"
+                     >etr</del> catholico <lb/>philosophero magno divo <add rend="below red"
+                     >paulo</add> in epistola <lb/>secunda <add rend="below red">iia ad corinthianes
+                     capitulo vto</add>
+                  <add place="overstrike" rend="red">|</add>Nam et qui <lb/>sumus in hoc tabernaculo
+                  corporis <lb/>ingemiscimus generati ex infra <lb/>mitatibus eo quod nolumus expoli
+                     <lb break="no"/>ari isto corpore sed corare? superves <lb break="no"/>tiri ipso
+                  corpore ne moriamur <add place="overstrike" rend="red">|</add> et Ideo subdit
+                  <lb/>ut absorbeant quod mortale est <lb/>a vita hec <add rend="below red"
+                     >Paulus</add>
+                  <add place="overstrike" rend="red">|</add>Quoniam paucissimi <lb/>philosophi
+                  pervenerunt ad ultimam <lb/>noticiam rei talis <add place="overstrike" rend="red"
+                     >|</add> Evidens est et <lb/>per hoc quod medici nostri temporis qui
+                  <lb/>ardent desiderio pecunie et ho <lb break="no"/>noris pro pecunia nil tale
+                  magna <lb break="no"/>to alicui nostri temporis potuerunt <lb/>conferre nec
+                  possunt <add place="inline" rend="red">|</add> nec vult <lb/>deus ut avari sciant
+                     <add place="overstrike" rend="red">|</add>Sed quia ut <lb/>dicit veridicus
+                  noster philosophis paulus in <lb/>epistola <add rend="below red">ad hebreos
+                     capitula ixo</add> in fine | Statutem <lb/>Constitutum est hominibus semel
+                  morit <lb/>| Ergo fantasticum est labora <lb break="no"/>re ut in hac mortali vita
+                  <lb/>queratur talis res que possit <lb/>corpus nostrum ex mortali reddere
+                  <lb/>immortale <add place="overstrike" rend="red">|</add> ut in Maxime quia <add
+                     rend="below red">genesii iii capitulo</add>
+                  <lb/>deus dixit <add place="overstrike" rend="red">|</add>Nunc ergo videte ne for
+                     <lb break="no"/>te adam mittat manum suam et <lb/>sumat etiam de ligno vite et
+                  comedat <lb/>et vivat in eternum | expulit Emisit eum deus <lb/>de paradiso
+                  voluptatis ut operaretur terram <lb/>de qua sumptus est <add place="overstrike"
+                     rend="red">|</add>Eiecitque eum adam <lb/>et collocavit ante paradisum vo <lb
+                     break="no"/>luptatis <add place="overstrike" rend="red">|</add>Cherubin cum et
+                  flammeum <lb/>gladium atque versatile ad custo <lb break="no"/>diendum viam ligni
+                  vite <lb/>
+                  <add place="overstrike" rend="red">|</add> Fantasticum ergo esset dicere ut
+                  <lb/>deus daret ade extra paradisum aliquam <lb/>rem per quam posset vivere in
+                  eternum <lb/><add place="overstrike" rend="red">|</add>p Ex quo ipsum eiecit eum
+                  ne capiens <lb/>de ligni fructu vite viveret in eternum <lb/><add
+                     place="overstrike" rend="red">|</add>Hoc autem in ex textu sacro infalli <lb
+                     break="no"/>biliter tenemus quod deus unicuique ter <lb break="no"/>minum vite
+                  constituisse prefixit <lb/><pb n="03" facs="#pg02r"/>
                   <lb/>qui non post quocunque humano ingenio <lb/>pertransire vel quocunque subsidio
-                  non valeat praetereri <lb/>dicente Iob | Breves dies hominis <lb/>sunt | numerus
-                  mensium eius apud <lb/>te est | constituisti terminos eius, qui <lb/>preteri non
-                  poterunt | Ergo quare <lb/>subsidium ad illud vite terminum <lb/>prolongandum
-                  esset fantasticum et inane <lb/>¶ Restat ergo querere rem que citra terminum
-                  <lb/>vite nostre a deo prefixum possit <lb/>corpus nostrum sine corruptione con
-                     <lb break="no"/>servare sanare | et conservare infirmum curare sa <lb
-                     break="no"/>nare et curare et sanitate deperditum <lb/>restaurare donec, veniat
-                  ultimata dies <lb/>mortis in termino prefixo a deo <lb/>| Ceterum omnem genus
-                  mortis vitare omnino <lb/>citra terminum illum non in potesta <lb break="no"/>te
-                  nostra est | veluti Sicut ex ictu fulgu <lb break="no"/>ris ex casu ex vel
-                  violencia nobis <lb/>supra vires illata | Ergo iam <lb/>restat, ut de morte que
-                  citra ulti <lb break="no"/>mum terminum potest nobis ex infirmi <lb break="no"
-                  />tatibus et corruptione corporis et ex de <lb break="no"/>fectu humane virtutis
-                  contingere specule <lb break="no"/>mur | Racio autem dictat quod cor <lb
+                  non valeat praetereri <lb/>dicente <add rend="below red">Iob</add> | Breves dies
+                  hominis <lb/>sunt | numerus mensium eius apud <lb/>te est <add place="inline"
+                     rend="red">|</add> constituisti terminos eius, qui <lb/>preteri non poterunt
+                     <add place="overstrike" rend="red">|</add>Ergo quare <lb/>subsidium ad illud
+                  vite terminum <lb/>prolongandum esset fantasticum et inane <lb/>¶ Restat ergo
+                  querere rem que citra terminum <lb/>vite nostre a deo prefixum possit <lb/>corpus
+                  nostrum sine corruptione con <lb break="no"/>servare sanare <add place="inline"
+                     rend="red">|</add> et conservare infirmum curare sa <lb break="no"/>nare et
+                  curare et sanitate deperditum <lb/>restaurare donec, veniat ultimata dies
+                  <lb/>mortis in termino prefixo a deo <lb/><add place="overstrike" rend="red"
+                     >|</add> Ceterum omnem genus mortis vitare omnino <lb/>citra terminum illum non
+                  in potesta <lb break="no"/>te nostra est <add place="overstrike" rend="red"
+                     >|</add> veluti Sicut ex ictu fulgu <lb break="no"/>ris ex casu ex vel
+                  violencia nobis <lb/>supra vires illata <add place="overstrike" rend="red"
+                  >|</add>Ergo iam <lb/>restat, ut de morte que citra ulti <lb break="no"/>mum
+                  terminum potest nobis ex infirmi <lb break="no"/>tatibus et corruptione corporis
+                  et ex de <lb break="no"/>fectu humane virtutis contingere specule <lb break="no"
+                  />mur <add place="overstrike" rend="red">|</add>Racio autem dictat quod cor <lb
                      break="no"/>pus corruptibile velle conservare <lb/>per rem putridam et
-                  corruptibiliem <lb/>et reformare per rem deformitati <lb/>subiectam | Et facere
-                  incorruptibile <lb/>per rem deficientem | et infirmum sa <lb break="no"/>nare per
-                  rem infirmam | Et turpe <lb/>pulcrum facere per rem fetidam et debilem firmum per
-                  rem infirmam est <lb/>fantasticum et inane | Ergo ra <lb break="no"/>dix vite est
-                  querere rem quod de <lb/>se si staret in eternum incorrupti <lb break="no"/>bilis
-                  esset que omnem rem sibi unitam <lb/>et maxime carnem semper teneat in <lb
-                     break="no"/>corruptam que virtutem vite ac et spi <lb break="no"/>ritum nutriat
-                  et augeat et <lb/>restauret | que omne crudum dige <lb break="no"/>rat | et omne
-                  digestum ad equalitatem re <lb break="no"/>ducat | et omnem excessum cuiuscunque
-                  <lb/>qualitatis amputet | et quamcunque <lb/>qualitatem deperditam dispersam
-                  restauret: | Humi <lb break="no"/>dum naturale faciat abundare humidare | et ignem
-                  <lb/>naturalem debilem inflammare procu <lb break="no"/>ret | Et scito hoc sine
-                  falsita <lb break="no"/>te quod nullum 4or elementorum est tale <cb n="b"/>nec
-                  aliquid quod includat ex se materialem <lb/>composicionem elementorum includit
-                  <lb/>| Quia omnia talia sunt corrupcioni <lb/>et transmutacioni subiecta | et omne
-                  <lb/>corruptibile infirmum et debile addi <lb break="no"/>tum suo simili augmentat
-                  illud <lb/>| Et quia omnes medici per tales res <lb/>corruptibiles que sunt
-                  elementa vel ex ele <lb break="no"/>mentis composita materialiter operati
-                  <lb/>fuerunt | Ideo nunquam potuerunt ad <lb/>archanum quod querimus de per venire
-                  Sed dico cum <lb/>iam omnia que sunt corporalia corruptibilia in hoc <lb/>mundo et
-                  ad usum corporis humani sint <lb/>elementa vel ex elementis composita | Ergo
-                  Igitur <lb/>radix vite non potest ab hominibus <lb/>in hoc mundo vel seculo
-                  inveniri que corpus <lb/>possit vivificare usque ad ultimum <lb/>terminum vite
-                  mortalibus hominibus prefixum a deo </p>
+                  corruptibiliem <lb/>et reformare per rem deformitati <lb/>subiectam <add
+                     place="overstrike" rend="red">|</add>Et facere incorruptibile <lb/>per rem
+                  deficientem <add place="inline" rend="red">|</add> et infirmum sa <lb break="no"
+                  />nare per rem infirmam <add place="overstrike" rend="red">|</add>Et turpe
+                  <lb/>pulcrum facere per rem fetidam et debilem firmum per rem infirmam est
+                  <lb/>fantasticum et inane <add place="overstrike" rend="red">|</add><add
+                     rend="below red">Ergo ra</add>
+                  <lb break="no"/><add rend="below red">dix vite est</add> querere rem quod de
+                  <lb/>se si staret in eternum incorrupti <lb break="no"/>bilis esset que omnem rem
+                  sibi unitam <lb/>et maxime carnem semper teneat in <lb break="no"/>corruptam que
+                  virtutem vite ac et spi <lb break="no"/>ritum nutriat et augeat et <lb/>restauret
+                     <add place="inline" rend="red">|</add> que omne crudum dige <lb break="no"/>rat
+                     <add place="inline" rend="red">|</add> et omne digestum ad equalitatem re <lb
+                     break="no"/>ducat <add place="inline" rend="red">|</add> et omnem excessum
+                  cuiuscunque <lb/>qualitatis amputet <add place="inline" rend="red">|</add> et
+                  quamcunque <lb/>qualitatem deperditam dispersam restauret: <add place="overstrike"
+                     rend="red">|</add>Humi <lb break="no"/>dum naturale faciat abundare humidare
+                     <add place="inline" rend="red">|</add> et ignem <lb/>naturalem debilem
+                  inflammare procu <lb break="no"/>ret <add place="overstrike" rend="red">|</add>Et
+                  scito hoc sine falsita <lb break="no"/>te quod nullum 4or elementorum est tale <cb
+                     n="b"/>nec aliquid quod includat ex se materialem <lb/>composicionem
+                  elementorum includit <lb/><add place="overstrike" rend="red">|</add> Quia omnia
+                  talia sunt corrupcioni <lb/>et transmutacioni subiecta <add place="overstrike"
+                     rend="red">|</add>et omne <lb/>corruptibile infirmum et debile addi <lb
+                     break="no"/>tum suo simili augmentat illud <lb/><add place="overstrike"
+                     rend="red">|</add> Et quia omnes medici per tales res <lb/>corruptibiles que
+                  sunt elementa vel ex ele <lb break="no"/>mentis composita materialiter operati
+                  <lb/>fuerunt <add place="overstrike" rend="red">|</add>Ideo nunquam potuerunt ad
+                  <lb/>archanum quod querimus de per venire Sed dico cum <lb/>iam omnia que sunt
+                  corporalia corruptibilia in hoc <lb/>mundo et ad usum corporis humani sint
+                  <lb/>elementa vel ex elementis composita <add place="overstrike" rend="red"
+                     >|</add> Ergo Igitur <lb/>radix vite non potest ab hominibus <lb/>in hoc mundo
+                  vel seculo inveniri que corpus <lb/>possit vivificare usque ad ultimum <lb/><add
+                     rend="below red">terminum vite mortalibus hominibus prefixum a deo</add>
+               </p>
             </div>
             <div type="textpart" subtype="section" n="4">
-               <head> | Indagacio celi nostri seu essencie quinte | Et quid celum nostrum vel quinta
-                  essencia sit</head>
-               <p>Ad quod fideliter respondemus | Quod <lb/>oportet rem querere que sic <lb/>se
-                  habeat respectu quatuor qualitatum e <lb break="no"/>lementorum ex quibus
-                  compositum est <lb/>corpus nostrum humanorum | Sicut se habet celum <lb break="no"
-                  />respectu quatuor elementorum | Si <lb/>cut incorruptibile ad corruptibile <lb/>|
-                  Philosophi autem vocaverunt celum quintam <lb/>essenciam respectu quatuor
-                  elementorum <lb/>| Quia in se celum est incorruptibile <lb/>et immutabile et non
-                  recipiens peregrinas <lb/>imitaciones vel impressiones <lb/>nisi fieret iussu dei
-                  | Sic et <lb/>res illa quam querimus est erit respectu <lb/>quatuor qualitatum
-                  quibus corporis nostri <lb/>incomparacione | Quinta essencia que <lb/>est in se
-                  incorruptibilis sic facta si staret <lb/> in etium non esset calida | nec sicca
-                  <lb/>cum igne | nec humida frigida | nec sic <lb break="no"/>ca cum terra humida
-                  cum aqua | nec <lb/>calida | nec humida cum aere | nec fri <lb break="no"/>gida
-                  nec sicca cum terra | Sed est es <lb break="no"/>cencia quinta valens ad omniam
-                  contraria <lb/>sicut celum incorruptibile | Quod </p>
+               <head>
+                  <add place="overstrike" rend="red">|</add>
+                  <add rend="below red">Indagacio celi nostri seu essencie quinte</add>
+                  <add place="overstrike" rend="red">|</add><add rend="below red">Et quid celum
+                     nostrum vel quinta essencia sit</add></head>
+               <p>Ad quod fideliter respondemus <add place="overstrike" rend="red">|</add>Quod
+                  <lb/>oportet rem querere que sic <lb/>se habeat respectu quatuor qualitatum e <lb
+                     break="no"/>lementorum ex quibus compositum est <lb/>corpus nostrum humanorum
+                     <add place="overstrike" rend="red">|</add>Sicut se habet celum <lb break="no"
+                  />respectu quatuor elementorum <add place="overstrike" rend="red">|</add>Si
+                  <lb/>cut incorruptibile ad corruptibile <lb/><add place="overstrike" rend="red"
+                     >|</add> Philosophi autem vocaverunt celum quintam <lb/>essenciam respectu
+                  quatuor elementorum <lb/><add place="overstrike" rend="red">|</add> Quia in se
+                  celum est incorruptibile <lb/>et immutabile et non recipiens peregrinas
+                  <lb/>imitaciones vel impressiones <lb/>nisi fieret iussu dei <add
+                     place="overstrike" rend="red">|</add> Sic et <lb/>res illa quam querimus est
+                  erit respectu <lb/>quatuor qualitatum quibus corporis nostri <lb/>incomparacione
+                     <add place="overstrike" rend="red">|</add>Quinta essencia que <lb/>est in se
+                  incorruptibilis sic facta si staret <lb/> in etium non esset calida <add
+                     place="inline" rend="red">|</add> nec sicca <lb/>cum igne <add place="inline"
+                     rend="red">|</add> nec humida frigida <add place="inline" rend="red">|</add>
+                  nec <del rend="strikethrough">sic</del>
+                  <lb break="no"/><del rend="strikethrough">ca cum terra</del> humida cum aqua <add
+                     place="inline" rend="red">|</add> nec <lb/>calida <add place="inline"
+                     rend="red">|</add> nec humida cum aere <add place="inline" rend="red">|</add>
+                  nec fri <lb break="no"/>gida nec sicca cum terra <add place="overstrike"
+                     rend="red">|</add>Sed est es <lb break="no"/>cencia quinta valens ad omniam
+                  contraria <lb/>sicut celum incorruptibile <add place="overstrike" rend="red"
+                     >|</add>Quod </p>
             </div>
 
          </div>
